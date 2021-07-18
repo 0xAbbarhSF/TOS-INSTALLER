@@ -1,6 +1,8 @@
 # TOS-INSTALLER
 Operating Systems Istaller for termux eg : Kali, Ubuntu, fedora etc
-<a<img src="https://i.ibb.co/wdHZZKv/screenshot.png>
+
+### Screenshot
+<img src="https://i.ibb.co/wdHZZKv/screenshot.png>
 
 ##Installation
 
@@ -14,4 +16,4 @@ Operating Systems Istaller for termux eg : Kali, Ubuntu, fedora etc
 
 > bash tos-installer.sh
 
-###Done
+### Done

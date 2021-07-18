@@ -1,9 +1,12 @@
 # TOS-INSTALLER
 Operating Systems 📱📲 Istaller for termux eg : Kali, Ubuntu, fedora etc
 
-## OS INCLUDED
+### OS's INCLUDED
 * KALI LINUX
 * KALI NETHUNTER
+* DEBIAN
+* BACKBOX LINUX
+* CENTOS OS
 * UBUNTU
 * ARCH LINUX
 * FEDORA
@@ -12,7 +15,7 @@ Operating Systems 📱📲 Istaller for termux eg : Kali, Ubuntu, fedora etc
 ### Screenshot
 <img src="https://i.ibb.co/wdHZZKv/screenshot.png"/>
 
-## Installation 
+### Installation 💀♂️
 
 > apt update
 
@@ -24,4 +27,8 @@ Operating Systems 📱📲 Istaller for termux eg : Kali, Ubuntu, fedora etc
 
 > bash tos-installer.sh
 
-### Done
+### Done👌🏾⚪
+
+#### Codded By : Star-Ford with Pure <3 BASH
+#### LulzSec TEAM BRAZIL
+

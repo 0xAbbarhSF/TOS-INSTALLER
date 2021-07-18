@@ -2,11 +2,11 @@
 #version 1.0
 
 # Installing Packages
-#pkg install curl
-#pkg install wget
-#pkg install git
-#pip install lolcat
-#pkg install figlet
+pkg install curl
+pkg install wget
+pkg install git
+pip install lolcat
+pkg install figlet
 clear
 # Colours
 green="\e[1;32m"

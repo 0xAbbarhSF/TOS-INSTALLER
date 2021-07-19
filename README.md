@@ -25,6 +25,8 @@ Operating Systems 📱📲 Istaller for termux eg : Kali, Ubuntu, fedora etc
 
 > git clone https://github.com/Star-Ford/TOS-INSTALLER
 
+> cd TOS-INSTALLER
+
 > bash tos-installer.sh
 
 ### Done👌🏾⚪

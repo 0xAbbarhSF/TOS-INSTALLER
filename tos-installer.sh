@@ -23,8 +23,8 @@ trap ctrl_c INT
 ctrl_c() {
 clear
 echo "Author : Star-Ford" | lolcat
-echo "Github : https://github.com/Star-Ford" | lolcat
-figlet -f slant "Star-Ford" | lolcat
+echo "Github : https://github.com/0xAbbarhSF" | lolcat
+figlet -f slant "0xAbbarhSF" | lolcat
 sleep 1
 exit
 }
@@ -36,8 +36,8 @@ while [ $lagi -lt 6 ];
 do
 figlet  "TOS-Installer" | lolcat
 printf "\n"
-printf "\e[1;40m\t\t\tCodded by:\e[0m\e[1;32mStar-Ford\e[0m\n"
-printf "\e[1;40m\t\tGithub ::\e[0m\e[1;32mhttps://github.com/Star-Ford\e[0m\n"
+printf "\e[1;40m\t\t\tCodded by:\e[0m\e[1;32m0xAbbarhSF\e[0m\n"
+printf "\e[1;40m\t\tGithub ::\e[0m\e[1;32mhttps://github.com/0xAbbarhSF\e[0m\n"
 printf "\n"
 printf  "\e[1;32m\t[°]____________OS-INSTALLER_________________[°]\e[0m\n"
 printf "\t\t\t 1.  Ubuntu\n"

@@ -13,7 +13,7 @@ Operating Systems 📱📲 Istaller for termux eg : Kali, Ubuntu, fedora etc
 * ALPINE
 
 ### Screenshot
-<img src="https://i.ibb.co/wdHZZKv/screenshot.png"/>
+<img src="https://raw.githubusercontent.com/0xAbbarhSF/TOS-INSTALLER/main/screenshot.png"/>
 
 ### Installation 💀♂️
 
@@ -23,7 +23,7 @@ Operating Systems 📱📲 Istaller for termux eg : Kali, Ubuntu, fedora etc
 
 > apt install git
 
-> git clone https://github.com/Star-Ford/TOS-INSTALLER
+> git clone https://github.com/0xAbbarhSF/TOS-INSTALLER
 
 > cd TOS-INSTALLER
 
@@ -31,6 +31,6 @@ Operating Systems 📱📲 Istaller for termux eg : Kali, Ubuntu, fedora etc
 
 ### Done👌🏾⚪
 
-#### Codded By : Star-Ford with Pure <3 BASH
-#### LulzSec TEAM BRAZIL
+#### Codded By : 0xAbbarhSF with Pure <3 BASH
+#### LulzSec TEAM NG
 
